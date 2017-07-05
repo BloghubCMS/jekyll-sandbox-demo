@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Garret is a cool guy"
+title:  "Coding Bros at it again"
 date:   2017-07-05 01:34:05 -0700
 categories: jekyll update
 ---
