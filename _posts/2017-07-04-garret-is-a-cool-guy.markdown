@@ -1,1 +1,1 @@
-stuff about my friend Garrett..
+Garret is awesome . he helped me wit h project.
