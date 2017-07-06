@@ -1,18 +1,18 @@
 ---
-layout: page
-title: About
-permalink: /about/
+LAYOUT: PAGE
+TITLE: ABOUT
+PERMALINK: /ABOUT/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+THIS IS THE BASE JEKYLL THEME. YOU CAN FIND OUT MORE INFO ABOUT CUSTOMIZING YOUR JEKYLL THEME, AS WELL AS BASIC JEKYLL USAGE DOCUMENTATION AT [JEKYLLRB.COM](HTTPS://JEKYLLRB.COM/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+YOU CAN FIND THE SOURCE CODE FOR MINIMA AT GITHUB:
+[JEKYLL][JEKYLL-ORGANIZATION] /
+[MINIMA](HTTPS://GITHUB.COM/JEKYLL/MINIMA)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+YOU CAN FIND THE SOURCE CODE FOR JEKYLL AT GITHUB:
+[JEKYLL][JEKYLL-ORGANIZATION] /
+[JEKYLL](HTTPS://GITHUB.COM/JEKYLL/JEKYLL)
 
 
-[jekyll-organization]: https://github.com/jekyll
+[JEKYLL-ORGANIZATION]: HTTPS://GITHUB.COM/JEKYLL
