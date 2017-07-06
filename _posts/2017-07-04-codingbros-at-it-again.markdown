@@ -1,25 +1,20 @@
----
-LAYOUT: POST
-TITLE:  "CODING BROS AT IT AGAIN"
-DATE:   2017-07-05 01:34:05 -0700
-CATEGORIES: JEKYLL UPDATE
----
-YOU’LL FIND THIS POST IN YOUR `_POSTS` DIRECTORY. GO AHEAD AND EDIT IT AND RE-BUILD THE SITE TO SEE YOUR CHANGES. YOU CAN REBUILD THE SITE IN MANY DIFFERENT WAYS, BUT THE MOST COMMON WAY IS TO RUN `JEKYLL SERVE`, WHICH LAUNCHES A WEB SERVER AND AUTO-REGENERATES YOUR SITE WHEN A FILE IS UPDATED.
+hey now
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-TO ADD NEW POSTS, SIMPLY ADD A FILE IN THE `_POSTS` DIRECTORY THAT FOLLOWS THE CONVENTION `YYYY-MM-DD-NAME-OF-POST.EXT` AND INCLUDES THE NECESSARY FRONT MATTER. TAKE A LOOK AT THE SOURCE FOR THIS POST TO GET AN IDEA ABOUT HOW IT WORKS.
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-JEKYLL ALSO OFFERS POWERFUL SUPPORT FOR CODE SNIPPETS:
+Jekyll also offers powerful support for code snippets:
 
-{% HIGHLIGHT RUBY %}
-DEF PRINT_HI(NAME)
-  PUTS "HI, #{NAME}"
-END
-PRINT_HI('TOM')
-#=> PRINTS 'HI, TOM' TO STDOUT.
-{% ENDHIGHLIGHT %}
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
 
-CHECK OUT THE [JEKYLL DOCS][JEKYLL-DOCS] FOR MORE INFO ON HOW TO GET THE MOST OUT OF JEKYLL. FILE ALL BUGS/FEATURE REQUESTS AT [JEKYLL’S GITHUB REPO][JEKYLL-GH]. IF YOU HAVE QUESTIONS, YOU CAN ASK THEM ON [JEKYLL TALK][JEKYLL-TALK].
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[JEKYLL-DOCS]: HTTPS://JEKYLLRB.COM/DOCS/HOME
-[JEKYLL-GH]:   HTTPS://GITHUB.COM/JEKYLL/JEKYLL
-[JEKYLL-TALK]: HTTPS://TALK.JEKYLLRB.COM/
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
